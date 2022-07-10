@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 /**
-* more_numbers - a function that prints 10 times the numbers, from 0 to 14,
-* followed by a new line.
-* Return: Always 0
+* this program prints 12 times multiplication table
+* at the back of my exercise book
+* when i was young in primary school
 */
 int main(void){
 	int a;
