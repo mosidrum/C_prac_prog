@@ -1,0 +1,1 @@
+This repository is for myself practicing C programming language
